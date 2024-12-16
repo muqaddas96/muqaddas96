@@ -26,7 +26,7 @@ innovation, and delivering value through technology.
 - **Other Expertise**: Agile, Scrum, GPT-powered AI applications
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muqaddas96&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqaddas96&layout=compact&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=muqaddas96&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---

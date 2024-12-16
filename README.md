@@ -21,17 +21,17 @@ innovation, and delivering value through technology.
 
 ## 🛠 Tech Stack
 
-- **Languages & Frameworks**: Python, JavaScript, SQL, HTML/CSS  
-- **Tools & Platforms**: JIRA, Confluence, Figma, Postman, Docker  
-- **Other Expertise**: Agile, Scrum, GPT-powered AI applications  
+- **Languages & Frameworks**: Python, JavaScript, SQL, HTML/CSS
+- **Tools & Platforms**: JIRA, Confluence, Figma, Postman, Docker
+- **Other Expertise**: Agile, Scrum, GPT-powered AI applications
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](<https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-
-square&logo=linkedin>)](<https://www.linkedin.com/in/muhammad-muqaddas-rehman-
-00a596141>) 
+[![LinkedIn]
+(<https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin>)]
+(<https://www.linkedin.com/in/muhammad-muqaddas-rehman-00a596141>)
 
 ---
 

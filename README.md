@@ -15,7 +15,7 @@ innovation, and delivering value through technology.
   Industrial 4.0 applications.
 - 🎓 **Gold Medalist**: Mechanical Engineering, CGPA 3.96/4.0.
 - 🔍 **Current Focus**: Building world-class maintenance and asset management
-  applications.
+  applications and analytics.
 
 ---
 
